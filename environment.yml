@@ -1,0 +1,19 @@
+name: python_fortgeschritten
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - jupyter
+  - ipykernel
+  - pytest
+  - ipython
+  - notebook
+  - ipywidgets
+  - lxml
+  - tk
+
