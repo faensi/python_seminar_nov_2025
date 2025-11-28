@@ -24,12 +24,19 @@
    - Seiteneffekte in Funktionen
    - Variable Argumentanzahl mit *args und **kwargs
 
+6. **Logging** (Notebook 13)
+   - Logging-Modul verwenden
+   - Log-Level (DEBUG, INFO, WARNING, ERROR, CRITICAL)
+   - Formatierung und Datei-Logging
+   - Logging in Funktionen und Modulen
+
 ## Wichtige Konzepte
 
 - **Exception Handling**: Robuste Fehlerbehandlung mit try/except
 - **Context Manager**: Automatisches Ressourcen-Management mit with
 - **Custom Exceptions**: Eigene Exception-Klassen für spezifische Fehler
 - **Variable Argumente**: *args für Positionsargumente, **kwargs für Keyword-Argumente
+- **Logging**: Strukturierte Protokollierung mit verschiedenen Log-Leveln
 
 ## Stichpunkte
 
@@ -38,4 +45,5 @@
 - finally wird immer ausgeführt, unabhängig von Exceptions
 - with-Statement stellt sicher, dass Ressourcen korrekt aufgeräumt werden
 - *args und **kwargs ermöglichen flexible Funktionssignaturen
+- Logging bietet strukturierte Protokollierung mit verschiedenen Wichtigkeitsstufen
 
