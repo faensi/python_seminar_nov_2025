@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<measurement_series id="MS-2025-001" project="Klimastudie">
+    <metadata>
+        <location>Labor A3</location>
+        <operator>Dr. Schmidt</operator>
+        <start_date>2025-11-01</start_date>
+        <end_date>2025-11-15</end_date>
+    </metadata>
+    <sensor id="S001" type="temperature" unit="Celsius">
+        <reading timestamp="2025-11-01T08:00:00">21.3</reading>
+        <reading timestamp="2025-11-01T12:00:00">23.7</reading>
+        <reading timestamp="2025-11-01T16:00:00">22.1</reading>
+        <reading timestamp="2025-11-02T08:00:00">20.8</reading>
+        <reading timestamp="2025-11-02T12:00:00">24.2</reading>
+        <reading timestamp="2025-11-02T16:00:00">22.9</reading>
+        <reading timestamp="2025-11-03T08:00:00">19.5</reading>
+        <reading timestamp="2025-11-03T12:00:00">22.8</reading>
+        <reading timestamp="2025-11-03T16:00:00">21.4</reading>
+    </sensor>
+    <sensor id="S002" type="humidity" unit="Prozent">
+        <reading timestamp="2025-11-01T08:00:00">45.2</reading>
+        <reading timestamp="2025-11-01T12:00:00">42.8</reading>
+        <reading timestamp="2025-11-01T16:00:00">48.1</reading>
+        <reading timestamp="2025-11-02T08:00:00">51.3</reading>
+        <reading timestamp="2025-11-02T12:00:00">44.7</reading>
+        <reading timestamp="2025-11-02T16:00:00">46.9</reading>
+        <reading timestamp="2025-11-03T08:00:00">52.4</reading>
+        <reading timestamp="2025-11-03T12:00:00">47.1</reading>
+        <reading timestamp="2025-11-03T16:00:00">49.8</reading>
+    </sensor>
+    <sensor id="S003" type="pressure" unit="hPa">
+        <reading timestamp="2025-11-01T08:00:00">1013.2</reading>
+        <reading timestamp="2025-11-01T12:00:00">1012.8</reading>
+        <reading timestamp="2025-11-01T16:00:00">1011.5</reading>
+        <reading timestamp="2025-11-02T08:00:00">1008.7</reading>
+        <reading timestamp="2025-11-02T12:00:00">1007.2</reading>
+        <reading timestamp="2025-11-02T16:00:00">1009.4</reading>
+        <reading timestamp="2025-11-03T08:00:00">1015.1</reading>
+        <reading timestamp="2025-11-03T12:00:00">1016.3</reading>
+        <reading timestamp="2025-11-03T16:00:00">1014.8</reading>
+    </sensor>
+</measurement_series>
+

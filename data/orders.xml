@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+    <order id="ORD-2025-001" date="2025-11-01">
+        <customer>
+            <name>Firma ABC</name>
+            <contact>kontakt@firma-abc.de</contact>
+        </customer>
+        <items>
+            <item product_id="P001" quantity="3">
+                <unit_price>1299.99</unit_price>
+            </item>
+            <item product_id="P002" quantity="10">
+                <unit_price>29.99</unit_price>
+            </item>
+        </items>
+        <status>geliefert</status>
+    </order>
+    <order id="ORD-2025-002" date="2025-11-05">
+        <customer>
+            <name>XYZ GmbH</name>
+            <contact>bestellung@xyz-gmbh.de</contact>
+        </customer>
+        <items>
+            <item product_id="P004" quantity="5">
+                <unit_price>399.00</unit_price>
+            </item>
+            <item product_id="P005" quantity="5">
+                <unit_price>59.99</unit_price>
+            </item>
+            <item product_id="P006" quantity="10">
+                <unit_price>149.00</unit_price>
+            </item>
+        </items>
+        <status>in_bearbeitung</status>
+    </order>
+    <order id="ORD-2025-003" date="2025-11-10">
+        <customer>
+            <name>StartUp Innovation</name>
+            <contact>order@startup-inn.de</contact>
+        </customer>
+        <items>
+            <item product_id="P001" quantity="2">
+                <unit_price>1299.99</unit_price>
+            </item>
+            <item product_id="P007" quantity="2">
+                <unit_price>39.99</unit_price>
+            </item>
+        </items>
+        <status>offen</status>
+    </order>
+    <order id="ORD-2025-004" date="2025-11-12">
+        <customer>
+            <name>Beratung Plus</name>
+            <contact>info@beratung-plus.de</contact>
+        </customer>
+        <items>
+            <item product_id="P002" quantity="20">
+                <unit_price>29.99</unit_price>
+            </item>
+        </items>
+        <status>geliefert</status>
+    </order>
+</orders>
+

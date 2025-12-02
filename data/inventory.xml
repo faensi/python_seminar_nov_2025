@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory last_updated="2025-11-15">
+    <category name="Elektronik">
+        <product id="P001" status="verfuegbar">
+            <name>Laptop Pro 15</name>
+            <price>1299.99</price>
+            <stock>25</stock>
+            <supplier>TechSupply AG</supplier>
+        </product>
+        <product id="P002" status="verfuegbar">
+            <name>Wireless Mouse</name>
+            <price>29.99</price>
+            <stock>150</stock>
+            <supplier>PeripheralWorld</supplier>
+        </product>
+        <product id="P003" status="ausverkauft">
+            <name>USB-C Hub</name>
+            <price>49.99</price>
+            <stock>0</stock>
+            <supplier>TechSupply AG</supplier>
+        </product>
+    </category>
+    <category name="Buero">
+        <product id="P004" status="verfuegbar">
+            <name>Ergonomischer Stuhl</name>
+            <price>399.00</price>
+            <stock>12</stock>
+            <supplier>OfficePro GmbH</supplier>
+        </product>
+        <product id="P005" status="wenig">
+            <name>Schreibtischlampe LED</name>
+            <price>59.99</price>
+            <stock>5</stock>
+            <supplier>LichtDesign</supplier>
+        </product>
+    </category>
+    <category name="Software">
+        <product id="P006" status="verfuegbar">
+            <name>Office Suite Lizenz</name>
+            <price>149.00</price>
+            <stock>999</stock>
+            <supplier>SoftwareDirect</supplier>
+        </product>
+        <product id="P007" status="verfuegbar">
+            <name>Antivirus Premium</name>
+            <price>39.99</price>
+            <stock>500</stock>
+            <supplier>SecurityFirst</supplier>
+        </product>
+    </category>
+</inventory>
+

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<laboratory name="Chemie-Institut TU Berlin">
+    <experiment id="EXP-001" status="abgeschlossen">
+        <title>Reaktionskinetik Versuch A</title>
+        <date>2025-10-15</date>
+        <researcher>M. Mueller</researcher>
+        <conditions>
+            <temperature unit="Celsius">25.0</temperature>
+            <pressure unit="bar">1.013</pressure>
+            <ph_value>7.2</ph_value>
+        </conditions>
+        <results>
+            <measurement name="Reaktionszeit" value="45.3" unit="Sekunden" />
+            <measurement name="Ausbeute" value="87.5" unit="Prozent" />
+            <measurement name="Reinheit" value="99.2" unit="Prozent" />
+        </results>
+    </experiment>
+    <experiment id="EXP-002" status="abgeschlossen">
+        <title>Reaktionskinetik Versuch B</title>
+        <date>2025-10-16</date>
+        <researcher>M. Mueller</researcher>
+        <conditions>
+            <temperature unit="Celsius">30.0</temperature>
+            <pressure unit="bar">1.013</pressure>
+            <ph_value>7.0</ph_value>
+        </conditions>
+        <results>
+            <measurement name="Reaktionszeit" value="38.7" unit="Sekunden" />
+            <measurement name="Ausbeute" value="91.2" unit="Prozent" />
+            <measurement name="Reinheit" value="98.8" unit="Prozent" />
+        </results>
+    </experiment>
+    <experiment id="EXP-003" status="in_bearbeitung">
+        <title>Reaktionskinetik Versuch C</title>
+        <date>2025-10-17</date>
+        <researcher>S. Schmidt</researcher>
+        <conditions>
+            <temperature unit="Celsius">35.0</temperature>
+            <pressure unit="bar">1.013</pressure>
+            <ph_value>6.8</ph_value>
+        </conditions>
+        <results>
+            <measurement name="Reaktionszeit" value="32.1" unit="Sekunden" />
+            <measurement name="Ausbeute" value="0.0" unit="Prozent" />
+            <measurement name="Reinheit" value="0.0" unit="Prozent" />
+        </results>
+    </experiment>
+    <experiment id="EXP-004" status="fehlgeschlagen">
+        <title>Reaktionskinetik Versuch D</title>
+        <date>2025-10-18</date>
+        <researcher>S. Schmidt</researcher>
+        <conditions>
+            <temperature unit="Celsius">40.0</temperature>
+            <pressure unit="bar">1.013</pressure>
+            <ph_value>6.5</ph_value>
+        </conditions>
+        <results>
+            <measurement name="Reaktionszeit" value="0.0" unit="Sekunden" />
+            <measurement name="Ausbeute" value="0.0" unit="Prozent" />
+            <measurement name="Reinheit" value="0.0" unit="Prozent" />
+        </results>
+    </experiment>
+</laboratory>
+

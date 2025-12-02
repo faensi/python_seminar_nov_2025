@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company name="TechCorp GmbH">
+    <department name="Entwicklung">
+        <employee id="E001">
+            <name>Max Mustermann</name>
+            <position>Senior Developer</position>
+            <salary>65000</salary>
+            <years>5</years>
+        </employee>
+        <employee id="E002">
+            <name>Anna Schmidt</name>
+            <position>Junior Developer</position>
+            <salary>45000</salary>
+            <years>2</years>
+        </employee>
+        <employee id="E003">
+            <name>Peter Weber</name>
+            <position>Tech Lead</position>
+            <salary>75000</salary>
+            <years>8</years>
+        </employee>
+    </department>
+    <department name="Marketing">
+        <employee id="M001">
+            <name>Lisa Mueller</name>
+            <position>Marketing Manager</position>
+            <salary>55000</salary>
+            <years>4</years>
+        </employee>
+        <employee id="M002">
+            <name>Thomas Braun</name>
+            <position>Content Creator</position>
+            <salary>40000</salary>
+            <years>1</years>
+        </employee>
+    </department>
+    <department name="Vertrieb">
+        <employee id="V001">
+            <name>Julia Fischer</name>
+            <position>Sales Manager</position>
+            <salary>60000</salary>
+            <years>6</years>
+        </employee>
+        <employee id="V002">
+            <name>Michael Schneider</name>
+            <position>Account Manager</position>
+            <salary>50000</salary>
+            <years>3</years>
+        </employee>
+        <employee id="V003">
+            <name>Sandra Hoffmann</name>
+            <position>Sales Representative</position>
+            <salary>42000</salary>
+            <years>2</years>
+        </employee>
+    </department>
+</company>
+
