@@ -41,29 +41,29 @@ python_fortgeschritten/
 │   ├── 10_eigene_ausnahmen.ipynb
 │   ├── 11_finally_aufraeumen.ipynb
 │   ├── 12_seiteneffekte_args_kwargs.ipynb
+│   ├── 13_logging.ipynb
 │   └── Tag2_Zusammenfassung.md
 ├── 3/                          # Tag 3: Objektorientierung vertieft
-│   ├── 13_klassen_instanzen_objekte.ipynb
-│   ├── 14_instanz_klassenattribute_properties.ipynb
-│   ├── 15_zugriffsmodifikatoren.ipynb
-│   ├── 16_magische_methoden_operator_ueberladung.ipynb
-│   ├── 17_vererbung_mehrfachvererbung.ipynb
+│   ├── 14_klassen_instanzen_objekte.ipynb
+│   ├── 15_instanz_klassenattribute_properties.ipynb
+│   ├── 16_zugriffsmodifikatoren.ipynb
+│   ├── 17_magische_methoden_operator_ueberladung.ipynb
+│   ├── 18_vererbung_mehrfachvererbung.ipynb
 │   └── Tag3_Zusammenfassung.md
 ├── 4/                          # Tag 4: Fortgeschrittenes OOP
-│   ├── 18_mehrfachvererbung_probleme.ipynb
 │   ├── 19_slots.ipynb
 │   ├── 20_metaklassen.ipynb
 │   ├── 21_design_patterns.ipynb
+│   ├── 22_threads_multiprocessing.ipynb
+│   ├── 23_xml_verarbeitung.ipynb
 │   └── Tag4_Zusammenfassung.md
 ├── 5/                          # Tag 5: Anwendungen und Erweiterungen
-│   ├── 22_packaging_libraries.ipynb
-│   ├── 23_numpy.ipynb
-│   ├── 24_scipy_pandas.ipynb
-│   ├── 25_matplotlib.ipynb
-│   ├── 26_os_schnittstellen.ipynb
-│   ├── 27_threads_multiprocessing.ipynb
-│   ├── 28_c_cpp_extending_embedding.ipynb
-│   ├── 29_xml_verarbeitung.ipynb
+│   ├── 24_packaging_libraries.ipynb
+│   ├── 25_numpy.ipynb
+│   ├── 26_scipy_pandas.ipynb
+│   ├── 27_matplotlib.ipynb
+│   ├── 28_os_schnittstellen.ipynb
+│   ├── 29_c_cpp_extending_embedding.ipynb
 │   ├── 30_tkinter.ipynb
 │   ├── 31_textverarbeitung_regex.ipynb
 │   └── Tag5_Zusammenfassung.md
@@ -80,7 +80,7 @@ python_fortgeschritten/
 
 ### Erklärung der Verzeichnisse
 
-- **1/, 2/, 3/, 4/, 5/**: Tages-Verzeichnisse mit den entsprechenden Notebooks. Die Notebooks sind fortlaufend nummeriert (00-31).
+- **1/, 2/, 3/, 4/, 5/**: Tages-Verzeichnisse mit den entsprechenden Notebooks. Die Notebooks sind fortlaufend nummeriert (00-32).
 - **data/**: Enthält Datensätze, die in den Notebooks verwendet werden. Diese werden typischerweise durch Code in den Notebooks erzeugt.
 - **imgs/**: Enthält Bilder und Grafiken, die in den Notebooks verwendet werden.
 - **EinführungsNotebooks/**: Enthält Einführungsmaterialien, insbesondere eine Einführung in Jupyter Notebooks.
@@ -90,10 +90,10 @@ python_fortgeschritten/
 
 Die Notebooks sind fortlaufend über alle Tage hinweg nummeriert:
 - Tag 1: 00-07
-- Tag 2: 08-12
-- Tag 3: 13-17
-- Tag 4: 18-21
-- Tag 5: 22-31
+- Tag 2: 08-13
+- Tag 3: 14-18
+- Tag 4: 19-23
+- Tag 5: 24-31
 
 ## Wichtige Dateien
 

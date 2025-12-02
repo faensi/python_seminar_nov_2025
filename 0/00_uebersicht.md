@@ -28,7 +28,7 @@ Wir starten mit den Grundlagen der funktionalen Programmierung in Python:
 ---
 
 ### Tag 2: Fehlerbehandlung und robuste Software
-**5 Notebooks (08-12)**
+**6 Notebooks (08-13)**
 
 Robuste Software erfordert professionelle Fehlerbehandlung:
 - **Syntax vs. Semantikfehler**: Unterschiede verstehen und richtig debuggen
@@ -37,13 +37,14 @@ Robuste Software erfordert professionelle Fehlerbehandlung:
 - **Context Manager**: Ressourcen-Management mit `with`-Statement
 - ***args und **kwargs**: Flexible Funktionssignaturen
 - **Seiteneffekte**: Funktionen sauber und vorhersehbar gestalten
+- **Logging**: Strukturierte Protokollierung statt print()
 
 **Was du lernst**: Wie du robuste, wartbare Software schreibst, die Fehler elegant behandelt und Ressourcen korrekt verwaltet.
 
 ---
 
 ### Tag 3: Objektorientierung vertieft
-**5 Notebooks (13-17)**
+**5 Notebooks (14-18)**
 
 Vertiefung der objektorientierten Programmierung:
 - **Klassen, Instanzen, Objekte**: Grundlagen der OOP in Python
@@ -58,20 +59,21 @@ Vertiefung der objektorientierten Programmierung:
 ---
 
 ### Tag 4: Fortgeschrittenes OOP
-**4 Notebooks (18-21)**
+**5 Notebooks (19-23)**
 
 Die fortgeschrittensten OOP-Konzepte:
-- **Mehrfachvererbung Probleme**: Diamond Problem und Lösungsansätze
 - **__slots__**: Speicher-Optimierung für große Objektmengen
 - **Metaklassen**: Klassen, die Klassen erstellen - die Meta-Ebene
 - **Design Patterns**: Singleton, Factory, Observer, Strategy Pattern
+- **Threads & Multiprocessing**: Parallelisierung und Performance
+- **XML-Verarbeitung**: Strukturierte Daten parsen
 
-**Was du lernst**: Die fortgeschrittensten OOP-Konzepte und bewährte Design-Patterns für komplexe Software-Architekturen.
+**Was du lernst**: Die fortgeschrittensten OOP-Konzepte und bewährte Design-Patterns für komplexe Software-Architekturen, sowie Parallelisierung und XML-Verarbeitung.
 
 ---
 
 ### Tag 5: Anwendungen und Erweiterungen
-**10 Notebooks (22-31)**
+**8 Notebooks (24-31)**
 
 Praktische Anwendungen und Integration:
 - **Packaging**: Eigene Libraries erstellen und verteilen
@@ -79,9 +81,7 @@ Praktische Anwendungen und Integration:
 - **SciPy & Pandas**: Wissenschaftliche Berechnungen und Datenanalyse
 - **Matplotlib**: Professionelle Datenvisualisierung
 - **OS-Schnittstellen**: Dateisystem-Operationen mit `os` und `pathlib`
-- **Threads & Multiprocessing**: Parallelisierung und Performance
 - **C/C++ Integration**: Python mit anderen Sprachen verbinden
-- **XML-Verarbeitung**: Strukturierte Daten parsen
 - **Tkinter**: GUI-Programmierung
 - **Regex**: Mächtige Textverarbeitung
 
