@@ -1,0 +1,25 @@
+2025-11-28 10:15:23 - INFO - System started successfully
+2025-11-28 10:15:24 - DEBUG - Loading configuration from config.yml
+2025-11-28 10:15:25 - INFO - Database connection established
+2025-11-28 10:15:26 - DEBUG - Initializing cache system
+2025-11-28 10:15:30 - WARNING - High memory usage detected: 85%
+2025-11-28 10:15:35 - INFO - Processing user request from 192.168.1.100
+2025-11-28 10:15:36 - DEBUG - Query execution time: 45ms
+2025-11-28 10:15:40 - ERROR - Failed to connect to external API: timeout
+2025-11-28 10:15:41 - INFO - Retrying API connection
+2025-11-28 10:15:43 - INFO - API connection successful
+2025-11-28 10:15:50 - DEBUG - Cache hit rate: 78%
+2025-11-28 10:16:00 - WARNING - Slow query detected: 2.5s
+2025-11-28 10:16:05 - INFO - User authentication successful
+2025-11-28 10:16:10 - DEBUG - Session created for user_id: 12345
+2025-11-28 10:16:15 - ERROR - Invalid input received: missing required field
+2025-11-28 10:16:20 - INFO - Request processed successfully
+2025-11-28 10:16:25 - DEBUG - Cleaning up temporary files
+2025-11-28 10:16:30 - WARNING - Disk space running low: 15% remaining
+2025-11-28 10:16:35 - CRITICAL - Database connection lost
+2025-11-28 10:16:36 - ERROR - Unable to process request: database unavailable
+2025-11-28 10:16:40 - INFO - Attempting database reconnection
+2025-11-28 10:16:45 - INFO - Database reconnected successfully
+2025-11-28 10:16:50 - DEBUG - Background task completed
+2025-11-28 10:17:00 - INFO - System health check passed
+2025-11-28 10:17:10 - DEBUG - Garbage collection triggered
