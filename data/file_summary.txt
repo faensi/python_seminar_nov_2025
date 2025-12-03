@@ -1,0 +1,33 @@
+Datei-Statistiken
+==================================================
+
+test.txt:
+  Zeilen: 1
+  Wörter: 1
+  Zeichen: 4
+  Größe: 4 Bytes
+
+text_file_1.txt:
+  Zeilen: 2295
+  Wörter: 22052
+  Zeichen: 142672
+  Größe: 144966 Bytes
+
+text_file_2.txt:
+  Zeilen: 3535
+  Wörter: 33972
+  Zeichen: 226290
+  Größe: 229824 Bytes
+
+text_file_3.txt:
+  Zeilen: 1489
+  Wörter: 14160
+  Zeichen: 96816
+  Größe: 98304 Bytes
+
+text_file_4.txt:
+  Zeilen: 4713
+  Wörter: 45296
+  Zeichen: 301872
+  Größe: 306584 Bytes
+

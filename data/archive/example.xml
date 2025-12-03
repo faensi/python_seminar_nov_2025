@@ -1,0 +1,19 @@
+<experiment id="EXP-2025-042" date="2025-11-20">
+    <metadata>
+        <researcher>Dr. Anna Weber</researcher>
+        <location>Labor B2, Raum 105</location>
+        <description>Temperaturmessung waehrend Katalyse-Reaktion</description>
+    </metadata>
+    <measurement timestamp="2025-11-20T09:00:00">
+        <value unit="Celsius">25.3</value>
+        <quality>valid</quality>
+    </measurement>
+    <measurement timestamp="2025-11-20T09:15:00">
+        <value unit="Celsius">47.8</value>
+        <quality>valid</quality>
+    </measurement>
+    <measurement timestamp="2025-11-20T09:30:00">
+        <value unit="Celsius">72.1</value>
+        <quality>valid</quality>
+    </measurement>
+</experiment>
